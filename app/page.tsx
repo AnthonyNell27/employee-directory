@@ -37,7 +37,7 @@ export default function Home() {
             <div className="container">
                 <header className="header">
                     <h1>Employee Directory</h1>
-                    <p className="subtitle">{total} employees</p>
+                    <p className="subtitle">{total} employees · live on Vercel 🚀</p>
                 </header>
 
                 <div className="card">
